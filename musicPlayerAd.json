@@ -20,14 +20,14 @@
       
       "AdInterval"         : 1,
       
-      "NativeAdRow"        : 0,
+      "NativeAdRow"        : 10,
 
       "AdPlacement": {
         
-        "AdMobBanner"         : "",
-        "AdMobInterstitial"   : "",
-        "AdMobNative"         : "",
-        "AdMobOpenAd"         : "",
+        "AdMobBanner"         : "ca-app-pub-3147524971917133/8633625067",
+        "AdMobInterstitial"   : "ca-app-pub-3147524971917133/6007461723",
+        "AdMobNative"         : "ca-app-pub-3147524971917133/6100478336",
+        "AdMobOpenAd"         : "ca-app-pub-3147524971917133/2734592820",
         
         "FacebookBanner"      : "",
         "FacebookInterstitial": "",
@@ -132,6 +132,12 @@
       "name": "Marwa Laoud & Lyrics Offline",
       "packageName": "com.loud.marwa.gouss",
       "icon": "https://play-lh.googleusercontent.com/pIcm0SJamvcM1Ml93Z5j1PUSJ_eUVdRdmMjM-TWk5h5PlbXbslX3S5E3gGd1-qbbgRZ_=w240-h480",
+      "download": "+10K"
+    },
+      {
+      "name": "Eva Queen & Lyrics Offline",
+      "packageName": "com.eva.oxegene.gouss",
+      "icon": "https://play-lh.googleusercontent.com/nzkfo9Xg3mJwPNIVbK1_EJfJKBt_JNY0peFlO1xWxS0CilIPVgvJX5HPknBi6JGh3Q=w240-h480",
       "download": "+10K"
     },
     {
