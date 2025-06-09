@@ -49,7 +49,7 @@
     ]
   },
   
-   "AppsPromote": [
+  "AppsPromote": [
     {
       "name": "Music Jul & Lyrics Offline",
       "packageName": "com.Superstar.jul.gouss",
@@ -199,6 +199,18 @@
       "packageName": "com.thevoca.listmlindo.gouss",
       "icon": "https://play-lh.googleusercontent.com/n5Pb9-NmHGRWf0Rmlvt8TMGuVDjGtgc-lHBFvsXF5-Go1C85M7XSVOe6TYgB5flaPDI=w240-h480",
       "download": "+50K"
+    },
+	{
+      "name": "Mark Forster & Lyrics Offline",
+      "packageName": "com.markfos.terchone.gouss",
+      "icon": "https://play-lh.googleusercontent.com/gmO21JGyfcKMpdoRfnTXpQiZ0A8wzK0OBYK3spRLk5KmU0hR0bmofHyhgnrpk8BGELg=w240-h480",
+      "download": "+10K"
+    },
+	{
+      "name": "Leo Rojas & Lyrics Offline",
+      "packageName": "com.leorojas.amigos.gouss",
+      "icon": "https://play-lh.googleusercontent.com/0zgn1dxydvPhrOCdLNcyfYxliELcB2B3UFCQlMExKGIQihoH3vfg1HKN6gvTpYojKw=w240-h480",
+      "download": "+10K"
     },
     {
       "name": "Kendji Girac & Lyrics Offline",
